@@ -1,2 +1,2 @@
-# datascience
-Code w.r.t. Data Science
+# deploy-heroku
+Deploy an Image Classification Model on Heroku
